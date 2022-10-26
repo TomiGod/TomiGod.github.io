@@ -75,3 +75,32 @@ p{
     border-radius: 100px;
     padding: 2px 5px;
 }
+
+.insta{
+    width: 40px;
+    height: 40px;
+}
+.whats{
+    width: 40px;
+    height: 40px;
+}
+.email{
+    width: 40px;
+    height: 40px;
+}
+.git {
+    width: 40px;
+    height: 40px;
+}
+
+.redes{
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
+
+.redes a{
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
