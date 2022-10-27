@@ -104,3 +104,16 @@ p{
     color: white;
     justify-content: center;
 }
+
+footer{
+    background-color: rgb(99, 245, 245);
+    align-items: center;
+    color: rgb(5, 3, 39);
+    justify-content: center;
+    text-align: center;
+}
+
+footer img{
+    width: 80px;
+    height: 80px;
+}
